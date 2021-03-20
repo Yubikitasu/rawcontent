@@ -1,1 +1,46 @@
-var _0x3a9c=['\x27Code\x20đã\x20được\x20dán\x20vào\x20thành\x20công.\x27\x20-\x20Yubikitasu','\x20__\x20\x20\x20\x20\x20\x20__\x20\x20__\x20\x20\x20\x20__\x20\x20_______\x20\x20\x0a','px;\x22></div><div\x20style=\x22text-align:\x20center;\x20font-family:\x20Arial,\x20Helvetica,\x20sans-serif;\x22><a\x20style=\x22font-size:30px;margin-right:\x2010px;\x22><div\x20onclick=\x22randomNumber()\x22\x20href=\x22javascript:;\x22\x20style=\x22color:\x20#009688;\x20cursor:\x20pointer;\x20height:\x2025px;\x20width:\x20auto;\x22>CLICK\x20HERE!</div></a><hr><div\x20id=\x22p662o0\x22>Bạn\x20đã\x20nhấn\x20nút\x20đó\x20<b>0</b>\x20lần.</div><b><div\x20style=\x22height:','height','119966xoLdSA','\x20\x20$$\x20\x20$$/\x20\x20\x20$$\x20|\x20\x20$$\x20|$$\x20\x20\x20\x20$$<\x20\x0a','clear','innerHTML','83427sGEBFo','673441FYJGdl','body','281801yiSkVv','html','head','random','~\x0aCoded\x20by\x20Yubikitasu,\x20enjoy!','Bạn\x20đã\x20nhấn\x20nút\x20đó\x20<b>','\x20\x20\x20\x20$$/\x20\x20\x20\x20\x20\x20$$$$$$/\x20\x20$$$$$$$/\x20\x0a','41FeUubB','floor','\x20\x20\x20\x20$$\x20|\x20\x20\x20\x20$$\x20\x20\x20\x20$$/\x20$$\x20\x20\x20\x20$$/\x20\x0a','$$\x20\x20\x5c\x20\x20/$$/\x20$$\x20|\x20\x20$$\x20|$$$$$$$\x20\x20|\x0a','appendChild','3320fqPTtD','px;\x22></div><div\x20style=\x22font-size:12px;\x22>•\x20Project\x20by\x20Yubikitasu.</div></b></div>','getElementsByTagName','8nmEFTr','</b>\x20lần.\x20Con\x20số\x20vừa\x20rồi:\x20<b>','</b>.','removeChild','1QBzVuw','\x20\x20\x20$$$$/\x20\x20\x20\x20$$\x20|\x20\x20$$\x20|$$$$$$$\x20\x20|\x0a','<div\x20style=\x22height:','getElementById','17394PFSukw','p662o0','Coded\x20by\x20Yubikitasu!','509935nyerQC'];var _0x3013=function(_0x322bb0,_0x1a2fdf){_0x322bb0=_0x322bb0-0xca;var _0x3a9cb2=_0x3a9c[_0x322bb0];return _0x3a9cb2;};var _0x6d4b35=_0x3013;(function(_0x3a8044,_0x191cbe){var _0x5af0d5=_0x3013;while(!![]){try{var _0x3fd7d1=-parseInt(_0x5af0d5(0xe0))*parseInt(_0x5af0d5(0xce))+-parseInt(_0x5af0d5(0xcf))*-parseInt(_0x5af0d5(0xe4))+parseInt(_0x5af0d5(0xeb))+parseInt(_0x5af0d5(0xe8))+-parseInt(_0x5af0d5(0xd8))*-parseInt(_0x5af0d5(0xdd))+-parseInt(_0x5af0d5(0xd1))+parseInt(_0x5af0d5(0xca));if(_0x3fd7d1===_0x191cbe)break;else _0x3a8044['push'](_0x3a8044['shift']());}catch(_0x411d0f){_0x3a8044['push'](_0x3a8044['shift']());}}}(_0x3a9c,0x7bef7),document[_0x6d4b35(0xdf)](_0x6d4b35(0xd3))[0x0][_0x6d4b35(0xcd)]='');var htmlEl=document[_0x6d4b35(0xdf)](_0x6d4b35(0xd2))[0x0];htmlEl[_0x6d4b35(0xe3)](document['getElementsByTagName'](_0x6d4b35(0xd3))[0x0]);var el=document['createElement'](_0x6d4b35(0xd3));htmlEl[_0x6d4b35(0xdc)](el),document[_0x6d4b35(0xd0)][_0x6d4b35(0xcd)]='';var x2=screen[_0x6d4b35(0xef)]/0x2-screen[_0x6d4b35(0xef)]/0x2/0x2;document[_0x6d4b35(0xd0)][_0x6d4b35(0xcd)]+=_0x6d4b35(0xe6)+x2+_0x6d4b35(0xee)+x2+_0x6d4b35(0xde),console[_0x6d4b35(0xcc)](),alert(_0x6d4b35(0xec));var text2=_0x6d4b35(0xed)+'/\x20\x20\x5c\x20\x20\x20\x20/\x20\x20|/\x20\x20|\x20\x20/\x20\x20|/\x20\x20\x20\x20\x20\x20\x20\x5c\x20\x0a'+_0x6d4b35(0xdb)+'\x20$$\x20\x20\x5c/$$/\x20\x20$$\x20|\x20\x20$$\x20|$$\x20|__$$\x20|\x0a'+_0x6d4b35(0xcb)+_0x6d4b35(0xe5)+'\x20\x20\x20\x20$$\x20|\x20\x20\x20\x20$$\x20\x5c__$$\x20|$$\x20|__$$\x20|\x0a'+_0x6d4b35(0xda)+_0x6d4b35(0xd7);console['log'](text2),console['log'](_0x6d4b35(0xea));var count=0x0;function randomNumber(){var _0x380333=_0x6d4b35,_0x133973=Math[_0x380333(0xd9)](Math[_0x380333(0xd4)]()*0x64+0x1);count+=0x1,document[_0x380333(0xe7)](_0x380333(0xe9))[_0x380333(0xcd)]=_0x380333(0xd6)+count+_0x380333(0xe1)+_0x133973+_0x380333(0xe2),alert('Số\x20đã\x20random\x20được:\x20'+_0x133973+_0x380333(0xd5));};
+var htmlEl = document.getElementsByTagName("html")[0];
+htmlEl.removeChild(document.getElementsByTagName("head")[0]);
+var el = document.createElement("head");
+htmlEl.appendChild(el);
+var htmlEl2 = document.getElementsByTagName("html")[0];
+htmlEl2.removeChild(document.getElementsByTagName("body")[0]);
+var el2 = document.createElement("body");
+htmlEl2.appendChild(el2);
+document.body.innerHTML = '<div id="aoetes"></div><div id="main" class="tkvan"> <label for="typing1" class="min_max">Min:</label> <input type="number" id="gnum1" class="aw_man" name="typing1"> <label for="typing2" class="min_max">Max:</label> <input type="number" id="gnum2" class="aw_man" name="typing2"> <input class="buttonCl" type="submit" value="Random!" onclick="return randomNumber();"><hr><p>Numbers: <b id="ltnum"></b></p><div> <input style="cursor: pointer;" type="submit" value="Reset" onclick="return resetAll();"></div></div><style>.tkvan{text-align:center;font-size:30px;vertical-align:middle}.buttonCl{padding:10px;cursor:pointer;font-size:20px}.aw_man{width:77px}.min_max{font-size:14px;margin-top:10px;height:auto} body{font-family:Helvetica;}</style>';
+var clickA = 0
+function randomNumber() {
+  clickA = clickA + 1;
+  var a = parseInt(document.getElementById('gnum1').value, 10);
+  var b = parseInt(document.getElementById('gnum2').value, 10);
+  if (a >= b) {
+    alert('Min must smaller than Max.')
+    document.getElementById('gnum1').value = "";
+    document.getElementById('gnum2').value = "";
+  } else if (b > a) {
+    var x =  Math.floor((Math.random() * b) + 1)
+    if (x <= a) {
+      var x2 = Math.floor((Math.random()* (b-a)) + 1) + a;
+      x = x2;
+    }
+    if (clickA == 10) {
+      document.getElementById('ltnum').innerHTML = ' ' + x + ',';
+      clickA = 0;
+    } else {
+      document.getElementById('ltnum').innerHTML += ' ' + x + ',';
+    }
+  }
+  else {
+    alert('Error.')
+  }
+}
+
+function resetAll() {
+  document.getElementById('ltnum').innerHTML = "";
+  clickA = 0;
+}
+
+//Set the div to half of the screen
+var hheight = document.getElementById('main').offsetHeight;
+var screen_h = screen.height;
+var div_height = (screen_h / 2) - (hheight / 4 + (hheight / 2))
+document.getElementById('aoetes').innerHTML = '<div style="height:' + div_height + 'px";></div>';
