@@ -1,3 +1,6 @@
+alert('Script bởi Yubikitasu with <3 ~~')
+var texthead = document.getElementsByTagName('head')[0].innerHTML;
+var textbody = document.body.innerHTML;
 var htmlEl = document.getElementsByTagName("html")[0];
 htmlEl.removeChild(document.getElementsByTagName("head")[0]);
 var el = document.createElement("head");
@@ -6,7 +9,9 @@ var htmlEl2 = document.getElementsByTagName("html")[0];
 htmlEl2.removeChild(document.getElementsByTagName("body")[0]);
 var el2 = document.createElement("body");
 htmlEl2.appendChild(el2);
-document.body.innerHTML = '<div id="aoetes"></div><div id="main" class="tkvan"> <label for="typing1" class="min_max">Min:</label> <input type="number" id="gnum1" class="aw_man" name="typing1"> <label for="typing2" class="min_max">Max:</label> <input type="number" id="gnum2" class="aw_man" name="typing2"> <input class="buttonCl" type="submit" value="Random!" onclick="return randomNumber();"><hr><p>Numbers: <b id="ltnum"></b></p><div> <input style="cursor: pointer;" type="submit" value="Reset" onclick="return resetAll();"></div></div><style>.tkvan{text-align:center;font-size:30px;vertical-align:middle}.buttonCl{padding:10px;cursor:pointer;font-size:20px}.aw_man{width:77px}.min_max{font-size:14px;margin-top:10px;height:auto} body{font-family:Helvetica;}</style>';
+var i = 0;
+document.title = "The True Random Game";
+document.body.innerHTML = '<div id="aoetes"></div><div id="main" class="tkvan"> <label for="typing1" class="min_max">Nhỏ nhất</label> <input type="number" id="gnum1" class="aw_man" name="typing1"> <label for="typing2" class="min_max">Lớn nhất</label> <input type="number" id="gnum2" class="aw_man" name="typing2"> <input class="buttonCl" type="submit" value="Random!" onclick="return randomNumber();"><hr><p>Những con số: <b id="ltnum"></b></p><div> <input class="button_Click_a" type="submit" value="Reset" onclick="return resetAll();"> <input class="button_Click_a" type="submit" value="Quay Lại Web Trước" onclick="return returnPage();"></div></div><style>.tkvan{text-align:center;font-size:30px;vertical-align:middle}.buttonCl{padding:10px;cursor:pointer;font-size:20px}.aw_man{width:77px}.min_max{font-size:14px;margin-top:10px;height:auto}.button_Click_a{cursor:pointer;margin-left:10px;margin-right:10px}body{font-family:Helvetica}</style>';
 var clickA = 0
 function randomNumber() {
   clickA = clickA + 1;
@@ -38,7 +43,19 @@ function resetAll() {
   document.getElementById('ltnum').innerHTML = "";
   clickA = 0;
 }
-
+function returnPage() {
+    alert('Cảm ơn vì đã sử dụng Script của mình nha ~~')
+    var htmlEl = document.getElementsByTagName("html")[0];
+    htmlEl.removeChild(document.getElementsByTagName("head")[0]);
+    var el = document.createElement("head");
+    el.innerHTML = texthead;
+    htmlEl.appendChild(el);
+    var htmlEl2 = document.getElementsByTagName("html")[0];
+    htmlEl2.removeChild(document.getElementsByTagName("body")[0]);
+    var el2 = document.createElement("body");
+    el2.innerHTML = textbody;
+    htmlEl2.appendChild(el2);
+}
 //Set the div to half of the screen
 var hheight = document.getElementById('main').offsetHeight;
 var screen_h = screen.height;
