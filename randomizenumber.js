@@ -18,7 +18,7 @@ function randomNumber() {
   var a = parseInt(document.getElementById('gnum1').value, 10);
   var b = parseInt(document.getElementById('gnum2').value, 10);
   if (a >= b) {
-    alert('Min must smaller than Max.')
+    alert('"Nhỏ nhất" phải nhỏ hơn "Lớn nhất".')
     document.getElementById('gnum1').value = "";
     document.getElementById('gnum2').value = "";
   } else if (b > a) {
